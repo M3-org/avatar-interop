@@ -1,4 +1,4 @@
-# Avatar Interop
+# Avatar Interop Group
 
 We meet weekly on Tuesdays at 1pm EST starting in the [M3 discord](https://discord.gg/m3org), you can add the event to your [calendar here](https://calendar.google.com/event?action=TEMPLATE&tmeid=MXI0djMydnBqMmIzMG9xY3JjN2U3cDBldGFfMjAyMjAzMTVUMTcwMDAwWiBmOWxzcmRnODI1aThpdmdpZm1qdHM4czRsb0Bn&tmsrc=f9lsrdg825i8ivgifmjts8s4lo%40group.calendar.google.com&scp=ALL).
 
