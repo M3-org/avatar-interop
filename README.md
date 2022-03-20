@@ -37,6 +37,18 @@ We meet **weekly** on **Tuesdays at 1pm EST** starting in the [M3 discord](https
 - Friday: Clear
 - Satuday: Clear
 
+### Past Events
+
+- [x] 22-02-08 [Avatar Interop meetup 1](https://docs.google.com/presentation/d/1WawoWJRM94f7PeRh4LiMhfzTVOGacYoX02N7fFcIkII/edit?usp=sharing)
+  - Video: https://www.twitch.tv/videos/1293166793
+- [x] 22-02-15 [Avatar Interop meetup 2](https://docs.google.com/presentation/d/1ZMgBnXpI2x-cD8fbxlMn3Q2SxC-egm-BG_gDk6OP9jQ/edit?usp=sharing)
+  - Video: https://www.youtube.com/watch?v=VQgFZdjka2w
+- [x] 22-03-08 [Avatar Interop meetup 3](https://docs.google.com/presentation/d/1fGxEd7RqWuGqPozXrwBXllb5aiYWaq5UZVCAjMRRS90/edit?usp=sharing)
+  - Video: https://www.youtube.com/watch?v=bPiRNrFJsW8
+- [x] 22-03-15 [Avatar Interop meetup 4](https://docs.google.com/presentation/d/1zjMXQwqrnVT14WyiM7mCeHEHPkIX92DDCkJpBOcC_cU/edit?usp=sharing)
+  - Videos: https://github.com/M3-org/avatar-interop/discussions/8#discussioncomment-2369023
+
+See full list of past events here: https://github.com/m3-org/research#m3-20
 
 ---
 
@@ -45,7 +57,7 @@ We meet **weekly** on **Tuesdays at 1pm EST** starting in the [M3 discord](https
 
 **Can I present a project?**
 
-Yes, feel free to hop on the discord and talk about it first though. Out of courtesy, it's recommended to attend atleast 1 meetup before being a presentor if you're a guest. Here's the full list of past events btw: https://github.com/m3-org/research#m3-20
+Yes, feel free to hop on the discord and talk about it first though. Out of courtesy, it's recommended to attend atleast 1 meetup before being a presentor if you're a guest.
 
 
 **Where can I learn more?**
