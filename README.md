@@ -11,7 +11,7 @@ This meetup group is dedicated to avatar interoperability R&D. We experiment wit
 <div align="center">
   <a href="https://github.com/M3-org/avatar-interop/wiki">Wiki</a>
   &mdash;
-  <a href="https://github.com/M3-org/avatar-interop/discussions">Events</a>
+  <a href="https://github.com/M3-org/avatar-interop/discussions">Discussions</a>
   &mdash;
   <a href="https://discord.gg/m3org">Discord</a>
   &mdash;
