@@ -1,20 +1,54 @@
 # Avatar Interop Group
 
-This meetup group is dedicated to avatar interoperability R&D spanning file formats, wearables, and animation systems. Our goal is to produce content and documentation while live field testing and to aid other open metaverse standards working groups.
+[![Club](https://img.shields.io/badge/project%20type-club-ff69b4)](https://project-types.github.io/#club)
+[![Discord](https://img.shields.io/discord/770382203782692945?label=Discord&logo=Discord)](https://discord.gg/m3org)
+[![Twitter Follow](https://img.shields.io/twitter/follow/m3org)](https://twitter.com/m3org)
 
-## Get Involved
+This meetup group is dedicated to avatar interoperability R&D. We experiment with interoperable file formats, wearables, and animation systems between game engines and virtual worlds. While testing we also aim to provide useful feedback to other open metaverse standards working groups, such as the [OMI scripting group](https://github.com/omigroup/omi-scripting-group) and the [OMI glTF-extensions group](https://github.com/omigroup/gltf-extensions).
 
-We meet weekly on Tuesdays at 1pm EST starting in the [M3 discord](https://discord.gg/m3org), you can add the event to your [calendar here](https://calendar.google.com/event?action=TEMPLATE&tmeid=MXI0djMydnBqMmIzMG9xY3JjN2U3cDBldGFfMjAyMjAzMTVUMTcwMDAwWiBmOWxzcmRnODI1aThpdmdpZm1qdHM4czRsb0Bn&tmsrc=f9lsrdg825i8ivgifmjts8s4lo%40group.calendar.google.com&scp=ALL).
+![image](https://user-images.githubusercontent.com/32600939/159146306-6462156f-a9f1-4baf-a338-2f3feb2328ca.png)
 
-As we're testing and making content with avatars during the week, our goal is to also provide useful feedback to a couple of other related working groups in OMI, mainly the [OMI scripting group](https://github.com/omigroup/omi-scripting-group) and the [OMI glTF-extensions group](https://github.com/omigroup/gltf-extensions).
-
-
-
-See full list of past events: https://github.com/m3-org/research#m3-20
+<div align="center">
+  <a href="https://github.com/M3-org/avatar-interop/wiki">Wiki</a>
+  &mdash;
+  <a href="https://github.com/M3-org/avatar-interop/discussions">Events</a>
+  &mdash;
+  <a href="https://discord.gg/m3org">Discord</a>
+  &mdash;
+  <a href="https://twitter.com/m3org">Twitter</a>
+  &mdash;
+  <a href="https://calendar.google.com/calendar/u/0?cid=Zjlsc3JkZzgyNWk4aXZnaWZtanRzOHM0bG9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">Calendar</a>
+</div>
 
 ---
 
-**Notes**
+## Calendar
+
+[:calendar: View the monthly M3 calendar](https://calendar.google.com/calendar/u/0?cid=Zjlsc3JkZzgyNWk4aXZnaWZtanRzOHM0bG9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
+
+We meet **weekly** on **Tuesdays at 1pm EST** starting in the [M3 discord](https://discord.gg/m3org). You can add this event to your [calendar here](https://calendar.google.com/event?action=TEMPLATE&tmeid=MXI0djMydnBqMmIzMG9xY3JjN2U3cDBldGFfMjAyMjAzMTVUMTcwMDAwWiBmOWxzcmRnODI1aThpdmdpZm1qdHM4czRsb0Bn&tmsrc=f9lsrdg825i8ivgifmjts8s4lo%40group.calendar.google.com&scp=ALL) or by using this calendar URL: 
+`https://calendar.google.com/calendar/ical/f9lsrdg825i8ivgifmjts8s4lo%40group.calendar.google.com/public/basic.ics`
+
+
+- Monday: Virtual production writer's room
+- Tuesay: [OMI Scripting](https://github.com/omigroup/omi-scripting-group) + [**Avatar Interop Meetup**](https://calendar.google.com/event?action=TEMPLATE&tmeid=MXI0djMydnBqMmIzMG9xY3JjN2U3cDBldGFfMjAyMjAzMTVUMTcwMDAwWiBmOWxzcmRnODI1aThpdmdpZm1qdHM4czRsb0Bn&tmsrc=f9lsrdg825i8ivgifmjts8s4lo%40group.calendar.google.com&scp=ALL)
+- Wednesday: [OMI group](https://omigroup.org/) community call
+- Thursday: Loot Town Square + MetaFactory community call
+- Friday: Clear
+- Satuday: Clear
+
+
+---
+
+## FAQ
+
+
+**Can I present a project?**
+
+Yes, feel free to hop on the discord and talk about it first though. Out of courtesy, it's recommended to attend atleast 1 meetup before being a presentor if you're a guest. Here's the full list of past events btw: https://github.com/m3-org/research#m3-20
+
+
+**Where can I learn more?**
 
 Read up on areas of research we've covered and are currently exploring. Dev logs contain ongoing documentation so expect some rough edges.
 
@@ -23,10 +57,11 @@ Read up on areas of research we've covered and are currently exploring. Dev logs
 - https://hackmd.io/@XR/wearables1
 - https://hackmd.io/@XR/mocap-interop
 
+Can also check out https://github.com/M3-org/git-gud as an onboarding guide
 
 **Where to get avatars?**
 
-It's a good idea to atleast have the basics of making your own custom avatar to be part of this group, here's some links:
+Learn the basics of making your own custom avatar, some links:
 
 - https://readyplayer.me/
 - https://vroid.com/en/studio
@@ -35,5 +70,6 @@ It's a good idea to atleast have the basics of making your own custom avatar to 
 - https://gitlab.com/s-ilent/SCSS/-/wikis/Other/Avatar-Models
 - https://hackmd.io/@XR/nftavatars
 
-> If making one, also check out https://github.com/M3-org/git-gud for a quest :eyes: 
+**Can you help me bring my art to life in 3D?**
 
+Possibly, if you're looking for help to make 3D avatars, pets, or vehicles ping `jin#6455` in the [Discord](https://discord.gg/m3org).
