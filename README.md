@@ -47,6 +47,8 @@ We meet **weekly** on **Tuesdays at 1pm EST** starting in the [M3 discord](https
   - Video: https://www.youtube.com/watch?v=bPiRNrFJsW8
 - [x] 22-03-15 [Avatar Interop meetup 4](https://docs.google.com/presentation/d/1zjMXQwqrnVT14WyiM7mCeHEHPkIX92DDCkJpBOcC_cU/edit?usp=sharing)
   - Videos: https://github.com/M3-org/avatar-interop/discussions/8#discussioncomment-2369023
+- [x] 22-03-22 [Avatar Interop meetup 5](https://docs.google.com/presentation/d/1NQcC4iWrXbUiCyvVtKwYZzpk3IET68hzFJcO0u6T50I/edit?usp=sharing)
+  - Video: https://www.youtube.com/watch?v=lxV5GK8CJRU
 
 See full list of past events here: https://github.com/m3-org/research#m3-20
 
