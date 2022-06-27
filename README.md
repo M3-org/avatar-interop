@@ -76,6 +76,7 @@ Read up on areas of research we've covered and are currently exploring. Dev logs
 - https://hackmd.io/@XR/avatarlod
 - https://hackmd.io/@XR/wearables1
 - https://hackmd.io/@XR/mocap-interop
+- https://hackmd.io/@xr/avatarbuilders
 
 Can also check out https://github.com/M3-org/git-gud as an onboarding guide
 
