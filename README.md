@@ -45,7 +45,7 @@ We meet **weekly** on **Tuesdays at 1pm EST** starting in the [M3 discord](https
 
 - M3taloot (3D loot wearables): https://twitter.com/dankvr/status/1507189063694131202
 - Open source avatar builders: https://hackmd.io/@XR/avatarbuilders
-- CloneX Experiments
+- CloneX Experiments: https://hackmd.io/@XR/clonexperiments
 
 ---
 
