@@ -71,6 +71,7 @@ See full list of past events here: https://github.com/m3-org/research#m3-20
   - Robert presenting Third Room: https://www.youtube.com/watch?v=zl_e2ySrRfw
 - [x] 22-04-21 - 22-05-28 [MF VR Fashion Shoots](https://gov.metafactory.ai/t/proposal-vr-fashion-shoots/362)
   - M3 grant for interoperable avatars + wearables and metaverse fashion shoots
+- [x] 22-07-19 [Loot: Emergent Artwork @ M3 Avatar Interop Group](https://www.youtube.com/watch?v=d6VZxNFF4DA)
 
 ---
 
