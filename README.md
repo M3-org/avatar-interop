@@ -37,7 +37,21 @@ We meet **weekly** on **Tuesdays at 1pm EST** starting in the [M3 discord](https
 - Friday: Clear
 - Satuday: Clear
 
+---
+
+## Current Projects
+
+![7Mpk0eM](https://user-images.githubusercontent.com/32600939/177205057-7012af25-c944-4c76-8b17-fc7327135310.png)
+
+- M3taloot (3D loot wearables): https://twitter.com/dankvr/status/1507189063694131202
+- Open source avatar builders: https://hackmd.io/@XR/avatarbuilders
+- CloneX Experiments: https://hackmd.io/@XR/clonexperiments
+
+---
+
 ### Past Events
+
+See full list of past events here: https://github.com/m3-org/research#m3-20
 
 - [x] 22-02-08 [Avatar Interop meetup 1](https://docs.google.com/presentation/d/1WawoWJRM94f7PeRh4LiMhfzTVOGacYoX02N7fFcIkII/edit?usp=sharing)
   - Video: https://www.twitch.tv/videos/1293166793
@@ -55,8 +69,9 @@ We meet **weekly** on **Tuesdays at 1pm EST** starting in the [M3 discord](https
 - [x] 22-04-22 [Demo Day 2 w/ M2, Jin, Robert](https://twitter.com/dankvr/status/1517530340553801734)
   - [Jins Slides](https://docs.google.com/presentation/d/1MmqoCUGvjrlzilt3foV6g4UWjasUowiV07oobzGogbQ/edit?usp=sharing)
   - Robert presenting Third Room: https://www.youtube.com/watch?v=zl_e2ySrRfw
-
-See full list of past events here: https://github.com/m3-org/research#m3-20
+- [x] 22-04-21 - 22-05-28 [MF VR Fashion Shoots](https://gov.metafactory.ai/t/proposal-vr-fashion-shoots/362)
+  - M3 grant for interoperable avatars + wearables and metaverse fashion shoots
+- [x] 22-07-19 [Loot: Emergent Artwork @ M3 Avatar Interop Group](https://www.youtube.com/watch?v=d6VZxNFF4DA)
 
 ---
 
@@ -67,15 +82,19 @@ See full list of past events here: https://github.com/m3-org/research#m3-20
 
 Yes, feel free to hop on the discord and talk about it first though. Out of courtesy, it's recommended to attend atleast 1 meetup before being a presentor if you're a guest.
 
+**When is the next event?**
+
+We have a weekly public event on Tuesdays 1pm EST where we discuss and show n' tell avatar interop projects. Occasionally we also host demo day events when there are atleast 3 demos to share.
 
 **Where can I learn more?**
 
-Read up on areas of research we've covered and are currently exploring. Dev logs contain ongoing documentation so expect some rough edges.
+I recommend a hands on approach to learning such as doing this [git gud guide](https://github.com/M3-org/git-gud). Read up on areas of research we've covered and are currently exploring. Dev logs contain ongoing documentation so expect some rough edges.
 
 - https://hackmd.io/@XR/avatars
 - https://hackmd.io/@XR/avatarlod
 - https://hackmd.io/@XR/wearables1
 - https://hackmd.io/@XR/mocap-interop
+- https://hackmd.io/@xr/avatarbuilders
 
 Can also check out https://github.com/M3-org/git-gud as an onboarding guide
 
