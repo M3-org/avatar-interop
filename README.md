@@ -34,7 +34,7 @@ We meet **weekly** on **Tuesdays at 1pm EST** starting in the [M3 discord](https
 - Tuesay: [OMI Scripting](https://github.com/omigroup/omi-scripting-group) + [**Avatar Interop Meetup**](https://calendar.google.com/event?action=TEMPLATE&tmeid=MXI0djMydnBqMmIzMG9xY3JjN2U3cDBldGFfMjAyMjAzMTVUMTcwMDAwWiBmOWxzcmRnODI1aThpdmdpZm1qdHM4czRsb0Bn&tmsrc=f9lsrdg825i8ivgifmjts8s4lo%40group.calendar.google.com&scp=ALL)
 - Wednesday: [OMI group](https://omigroup.org/) community call
 - Thursday: Loot Town Square + MetaFactory community call
-- Friday: Clear
+- Friday: [Neon Buidl](https://twitter.com/neon_buidl)
 - Satuday: Clear
 
 ---
@@ -72,6 +72,11 @@ See full list of past events here: https://github.com/m3-org/research#m3-20
 - [x] 22-04-21 - 22-05-28 [MF VR Fashion Shoots](https://gov.metafactory.ai/t/proposal-vr-fashion-shoots/362)
   - M3 grant for interoperable avatars + wearables and metaverse fashion shoots
 - [x] 22-07-19 [Loot: Emergent Artwork @ M3 Avatar Interop Group](https://www.youtube.com/watch?v=d6VZxNFF4DA)
+- [x] 22-08-02 [Avatar randomizer update + Interactive wearable overlay apps](https://www.youtube.com/watch?v=ViIMCvgmOUM)
+- [x] 22-08-09 Avatar Interop Group Weekly
+  - [What could NPCs do? by A](https://www.youtube.com/watch?v=jLzRKxZkdyw)
+  - [Pets in Anarchy Arcade by SM SithLord](https://www.youtube.com/watch?v=STQRpylK8kI)
+  - [Hyperfy NPCs and quests by Ash](https://www.youtube.com/watch?v=Ci1oB-LoMfc)
 
 ---
 
