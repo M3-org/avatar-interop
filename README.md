@@ -4,7 +4,7 @@
 [![Discord](https://img.shields.io/discord/770382203782692945?label=Discord&logo=Discord)](https://discord.gg/m3org)
 [![Twitter Follow](https://img.shields.io/twitter/follow/m3org)](https://twitter.com/m3org)
 
-This meetup group is dedicated to avatar interoperability R&D. We experiment with interoperable file formats, wearables, and animation systems between game engines and virtual worlds. While testing we also aim to provide useful feedback to other open metaverse standards working groups, such as the [OMI scripting group](https://github.com/omigroup/omi-scripting-group) and the [OMI glTF-extensions group](https://github.com/omigroup/gltf-extensions).
+This meetup group is dedicated to avatar interoperability R&D. We experiment with interoperable file formats, wearables, and animation systems between game engines and virtual worlds. While testing we also aim to provide useful feedback to other open metaverse standards working groups, such as the [Metaverse Standards Forum](https://metaverse-standards.org/), [OMI scripting group](https://github.com/omigroup/omi-scripting-group) and the [OMI glTF-extensions group](https://github.com/omigroup/gltf-extensions).
 
 ![image](https://user-images.githubusercontent.com/32600939/159146306-6462156f-a9f1-4baf-a338-2f3feb2328ca.png)
 
