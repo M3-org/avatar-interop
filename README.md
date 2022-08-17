@@ -83,6 +83,9 @@ See full list of past events here: https://github.com/m3-org/research#m3-20
 
 ## FAQ
 
+**How do I join M3?**
+
+I recommend [reading this](https://hackmd.io/@XR/motivation) and starting with this guide: https://github.com/M3-org/git-gud
 
 **Can I present a project?**
 
@@ -94,22 +97,28 @@ We have a weekly public event on Tuesdays 1pm EST where we discuss and show n' t
 
 **Where can I learn more?**
 
-I recommend a hands on approach to learning such as doing this [git gud guide](https://github.com/M3-org/git-gud). Read up on areas of research we've covered and are currently exploring. Dev logs contain ongoing documentation so expect some rough edges.
+Read up on areas of research we've covered and are currently exploring. Dev logs contain ongoing documentation so expect some rough edges.
 
-- https://hackmd.io/@XR/avatars
-- https://hackmd.io/@XR/avatarlod
-- https://hackmd.io/@XR/wearables1
-- https://hackmd.io/@XR/mocap-interop
-- https://hackmd.io/@xr/avatarbuilders
+- https://hackmd.io/@XR/avatars - tons of general info about avatar interop and VRM, #1 result on google for "avatar interoperability"
+- https://hackmd.io/@XR/avatarlod - ways to optimize custom avatars to increase performance and CCU
+- https://hackmd.io/@XR/wearables1 - notes on interoperable wearables systems
+- https://hackmd.io/@XR/mocap-interop - notes on interoperable animation / mocap between game engines and platforms
+- https://hackmd.io/@xr/avatarbuilders - notes on avatar builder programs we're building and ones that exist
 
-Can also check out https://github.com/M3-org/git-gud as an onboarding guide
+Excellent tutorials: 
+
+- https://hackmd.io/@metamike/CloneX-VRM
+- https://hackmd.io/@metamike/CloneX-Virtual-World-Files
+- https://hackmd.io/@metamike/fbx-vrm-webaverse
+- https://docs.webaverse.com/docs/art/clonex-to-vrm
 
 **Where to get avatars?**
 
-Learn the basics of making your own custom avatar, some links:
+Learn the basics of making your own custom avatar from [this workshop by jin](https://hackmd.io/@XR/aig-vrm-workshop), some more links to check out:
 
 - https://readyplayer.me/
 - https://vroid.com/en/studio
+- https://booth.pm/
 - https://www.100avatars.com/
 - https://vrm.dev/en/vrm_applications/#platform-for-3d-models
 - https://gitlab.com/s-ilent/SCSS/-/wikis/Other/Avatar-Models
