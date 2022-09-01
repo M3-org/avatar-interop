@@ -26,13 +26,13 @@ This meetup group is dedicated to avatar interoperability R&D. We experiment wit
 
 [:calendar: View the monthly M3 calendar](https://calendar.google.com/calendar/u/0?cid=Zjlsc3JkZzgyNWk4aXZnaWZtanRzOHM0bG9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
-We meet **weekly** on **Tuesdays at 1pm EST** starting in the [M3 discord](https://discord.gg/m3org). You can add this event to your [calendar here](https://calendar.google.com/event?action=TEMPLATE&tmeid=MXI0djMydnBqMmIzMG9xY3JjN2U3cDBldGFfMjAyMjAzMTVUMTcwMDAwWiBmOWxzcmRnODI1aThpdmdpZm1qdHM4czRsb0Bn&tmsrc=f9lsrdg825i8ivgifmjts8s4lo%40group.calendar.google.com&scp=ALL) or by using this calendar URL: 
+We meet **weekly** on **Tuesdays at 8pm EST** starting in the [M3 discord](https://discord.gg/m3org). You can add this event to your [calendar here](https://calendar.google.com/event?action=TEMPLATE&tmeid=MXI0djMydnBqMmIzMG9xY3JjN2U3cDBldGFfMjAyMjAzMTVUMTcwMDAwWiBmOWxzcmRnODI1aThpdmdpZm1qdHM4czRsb0Bn&tmsrc=f9lsrdg825i8ivgifmjts8s4lo%40group.calendar.google.com&scp=ALL) or by using this calendar URL: 
 `https://calendar.google.com/calendar/ical/f9lsrdg825i8ivgifmjts8s4lo%40group.calendar.google.com/public/basic.ics`
 
 
 - Monday: Virtual production writer's room
 - Tuesay: [OMI Scripting](https://github.com/omigroup/omi-scripting-group) + [**Avatar Interop Meetup**](https://calendar.google.com/event?action=TEMPLATE&tmeid=MXI0djMydnBqMmIzMG9xY3JjN2U3cDBldGFfMjAyMjAzMTVUMTcwMDAwWiBmOWxzcmRnODI1aThpdmdpZm1qdHM4czRsb0Bn&tmsrc=f9lsrdg825i8ivgifmjts8s4lo%40group.calendar.google.com&scp=ALL)
-- Wednesday: [OMI group](https://omigroup.org/) community call
+- Wednesday: [Metaverse Standards Forum](https://metaverse-standards.org/) + [OMI group](https://omigroup.org/) community call
 - Thursday: Loot Town Square + MetaFactory community call
 - Friday: [Neon Buidl](https://twitter.com/neon_buidl)
 - Satuday: Clear
