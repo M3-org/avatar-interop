@@ -79,7 +79,9 @@ See full list of past events here: https://github.com/m3-org/research#m3-20
   - [Hyperfy NPCs and quests by Ash](https://www.youtube.com/watch?v=Ci1oB-LoMfc)
 - [x] 22-08-16 [VRM avatar workshop by jin](https://hackmd.io/@XR/aig-vrm-workshop)
 - [x] 22-08-22 [Avatar Interop meetup 8-22](https://www.youtube.com/watch?v=H2_UeJx4GOE)
+  - [x] [Notes](https://hackmd.io/@XR/mf_notes/https%3A%2F%2Fhackmd.io%2F%40arashichan%2FSJRiFem1s) 
 - [x] 22-08-30 [Field trip into Hyperfy w/ VRMs](https://www.youtube.com/watch?v=yVNr6q8lpj0)
+
 
 ---
 
