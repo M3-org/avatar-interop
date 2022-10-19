@@ -46,42 +46,51 @@ We meet **weekly** on **Tuesdays at 8pm EST** starting in the [M3 discord](https
 - M3taloot (3D loot wearables): https://twitter.com/dankvr/status/1507189063694131202
 - Open source avatar builders: https://hackmd.io/@XR/avatarbuilders
 - CloneX Experiments: https://hackmd.io/@XR/clonexperiments
+- Webaverse MMO: https://hackmd.io/@xr/webaverse-mmo
+- MetaFactory (digi-physical wearables): https://hackmd.io/@xr/mf_notes
 
 ---
 
 ### Past Events
 
+> Note: Starting to combine this list with virtual production meetups because of how much the groups overlap
 See full list of past events here: https://github.com/m3-org/research#m3-20
 
-- [x] 22-02-08 [Avatar Interop meetup 1](https://docs.google.com/presentation/d/1WawoWJRM94f7PeRh4LiMhfzTVOGacYoX02N7fFcIkII/edit?usp=sharing)
+- 2-8-22 [Avatar Interop meetup 1](https://docs.google.com/presentation/d/1WawoWJRM94f7PeRh4LiMhfzTVOGacYoX02N7fFcIkII/edit?usp=sharing)
   - Video: https://www.twitch.tv/videos/1293166793
-- [x] 22-02-15 [Avatar Interop meetup 2](https://docs.google.com/presentation/d/1ZMgBnXpI2x-cD8fbxlMn3Q2SxC-egm-BG_gDk6OP9jQ/edit?usp=sharing)
+- 2-15-22 [Avatar Interop meetup 2](https://docs.google.com/presentation/d/1ZMgBnXpI2x-cD8fbxlMn3Q2SxC-egm-BG_gDk6OP9jQ/edit?usp=sharing)
   - Video: https://www.youtube.com/watch?v=VQgFZdjka2w
-- [x] 22-03-08 [Avatar Interop meetup 3](https://docs.google.com/presentation/d/1fGxEd7RqWuGqPozXrwBXllb5aiYWaq5UZVCAjMRRS90/edit?usp=sharing)
+- 3-8-22 [Avatar Interop meetup 3](https://docs.google.com/presentation/d/1fGxEd7RqWuGqPozXrwBXllb5aiYWaq5UZVCAjMRRS90/edit?usp=sharing)
   - Video: https://www.youtube.com/watch?v=bPiRNrFJsW8
-- [x] 22-03-15 [Avatar Interop meetup 4](https://docs.google.com/presentation/d/1zjMXQwqrnVT14WyiM7mCeHEHPkIX92DDCkJpBOcC_cU/edit?usp=sharing)
+- 3-15-22 [Avatar Interop meetup 4](https://docs.google.com/presentation/d/1zjMXQwqrnVT14WyiM7mCeHEHPkIX92DDCkJpBOcC_cU/edit?usp=sharing)
   - Videos: https://github.com/M3-org/avatar-interop/discussions/8#discussioncomment-2369023
-- [x] 22-03-22 [Avatar Interop meetup 5](https://docs.google.com/presentation/d/1NQcC4iWrXbUiCyvVtKwYZzpk3IET68hzFJcO0u6T50I/edit?usp=sharing)
+- 3-22-22 [Avatar Interop meetup 5](https://docs.google.com/presentation/d/1NQcC4iWrXbUiCyvVtKwYZzpk3IET68hzFJcO0u6T50I/edit?usp=sharing)
   - Video: https://www.youtube.com/watch?v=lxV5GK8CJRU
-- [x] 22-04-07 [M3 x Metaverse Crew event](https://docs.google.com/presentation/d/1j49zARAAECCSF4EoyyN_VkRkzCqFnQUvVx0NTq8GH7Y/edit?usp=sharing)
+- 4-7-22 [M3 x Metaverse Crew event](https://docs.google.com/presentation/d/1j49zARAAECCSF4EoyyN_VkRkzCqFnQUvVx0NTq8GH7Y/edit?usp=sharing)
   - Video: https://www.youtube.com/watch?v=ls21IwX94YE
-- [x] 22-04-08 [Demo Day 1 w/ Sith, Jin, A](https://twitter.com/dankvr/status/1512521045579902976)
-- [x] 22-04-22 [Demo Day 2 w/ M2, Jin, Robert](https://twitter.com/dankvr/status/1517530340553801734)
+- 4-8-22 [Demo Day 1 w/ Sith, Jin, A](https://twitter.com/dankvr/status/1512521045579902976)
+- 4-22-22 [Demo Day 2 w/ M2, Jin, Robert](https://twitter.com/dankvr/status/1517530340553801734)
   - [Jins Slides](https://docs.google.com/presentation/d/1MmqoCUGvjrlzilt3foV6g4UWjasUowiV07oobzGogbQ/edit?usp=sharing)
   - Robert presenting Third Room: https://www.youtube.com/watch?v=zl_e2ySrRfw
-- [x] 22-04-21 - 22-05-28 [MF VR Fashion Shoots](https://gov.metafactory.ai/t/proposal-vr-fashion-shoots/362)
+- 4-21-22 - 5-28-22 [MF VR Fashion Shoots](https://gov.metafactory.ai/t/proposal-vr-fashion-shoots/362)
   - M3 grant for interoperable avatars + wearables and metaverse fashion shoots
-- [x] 22-07-19 [Loot: Emergent Artwork @ M3 Avatar Interop Group](https://www.youtube.com/watch?v=d6VZxNFF4DA)
-- [x] 22-08-02 [Avatar randomizer update + Interactive wearable overlay apps](https://www.youtube.com/watch?v=ViIMCvgmOUM)
-- [x] 22-08-09 Avatar Interop Group Weekly
+- 7-19-22 [Loot: Emergent Artwork @ M3 Avatar Interop Group](https://www.youtube.com/watch?v=d6VZxNFF4DA)
+- 8-2-22 [Avatar randomizer update + Interactive wearable overlay apps](https://www.youtube.com/watch?v=ViIMCvgmOUM)
+- 8-9-22 Avatar Interop Group Weekly
   - [What could NPCs do? by A](https://www.youtube.com/watch?v=jLzRKxZkdyw)
   - [Pets in Anarchy Arcade by SM SithLord](https://www.youtube.com/watch?v=STQRpylK8kI)
   - [Hyperfy NPCs and quests by Ash](https://www.youtube.com/watch?v=Ci1oB-LoMfc)
-- [x] 22-08-16 [VRM avatar workshop by jin](https://hackmd.io/@XR/aig-vrm-workshop)
-- [x] 22-08-22 [Avatar Interop meetup 8-22](https://www.youtube.com/watch?v=H2_UeJx4GOE)
-  - [x] [Notes](https://hackmd.io/@XR/mf_notes/https%3A%2F%2Fhackmd.io%2F%40arashichan%2FSJRiFem1s) 
-- [x] 22-08-30 [Field trip into Hyperfy w/ VRMs](https://www.youtube.com/watch?v=yVNr6q8lpj0)
-
+- 8-16-22 [VRM avatar workshop by jin](https://hackmd.io/@XR/aig-vrm-workshop)
+- 8-22-22 [Avatar Interop meetup 8-22](https://www.youtube.com/watch?v=H2_UeJx4GOE)
+  - [Notes](https://hackmd.io/@XR/mf_notes/https%3A%2F%2Fhackmd.io%2F%40arashichan%2FSJRiFem1s) 
+- 8-29-22 [Vprod meetup notes](https://hackmd.io/@arashichan/HyNYld9ki)
+- 8-30-22 [Field trip into Hyperfy w/ VRMs](https://www.youtube.com/watch?v=yVNr6q8lpj0)
+- [9-13-22 Avatar Interop](https://hackmd.io/@arashichan/BksZqqAgj)
+- [9-19-22 VPROD](https://hackmd.io/@arashichan/rJwUlQL-j)
+- [9-20-22 Avatar Interop](https://hackmd.io/@arashichan/S10L4AvWo)
+- [10-3-22 VPROD](https://hackmd.io/@arashichan/BybNr5uGj)
+- [10-10-22 VPROD](https://hackmd.io/@arashichan/r1BLk0Z7s)
+- [10-17-22 VPROD](https://hackmd.io/mhD3P_5JRmSxCcEYkBHJUQ?both)
 
 ---
 
