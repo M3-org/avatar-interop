@@ -31,7 +31,7 @@ We meet **weekly** on **Tuesdays at 8pm EST** starting in the [M3 discord](https
 
 
 - Monday: Virtual production writer's room
-- Tuesay: [OMI Scripting](https://github.com/omigroup/omi-scripting-group) + [**Avatar Interop Meetup**](https://calendar.google.com/event?action=TEMPLATE&tmeid=MXI0djMydnBqMmIzMG9xY3JjN2U3cDBldGFfMjAyMjAzMTVUMTcwMDAwWiBmOWxzcmRnODI1aThpdmdpZm1qdHM4czRsb0Bn&tmsrc=f9lsrdg825i8ivgifmjts8s4lo%40group.calendar.google.com&scp=ALL)
+- Tuesay: [Uncanny Alley](https://hyperfy.io/uncannyalley) + [**Avatar Interop Meetup**](https://calendar.google.com/event?action=TEMPLATE&tmeid=MXI0djMydnBqMmIzMG9xY3JjN2U3cDBldGFfMjAyMjAzMTVUMTcwMDAwWiBmOWxzcmRnODI1aThpdmdpZm1qdHM4czRsb0Bn&tmsrc=f9lsrdg825i8ivgifmjts8s4lo%40group.calendar.google.com&scp=ALL)
 - Wednesday: [Metaverse Standards Forum](https://metaverse-standards.org/) + [OMI group](https://omigroup.org/) community call
 - Thursday: Loot Town Square + MetaFactory community call
 - Friday: [Neon Buidl](https://twitter.com/neon_buidl)
