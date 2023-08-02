@@ -1,0 +1,78 @@
+{
+  "id": 3024,
+  "wallet": "0x33DebB5Ee65549FFA71116957Da6db17A9D8fe57",
+  "attachments": [
+    {
+      "bone": "Head",
+      "uuid": "9996c250-91e3-11eb-8e90-cd6a46433faa",
+      "scaling": [
+        0.25,
+        0.3,
+        0.25
+      ],
+      "chain_id": 1,
+      "position": [
+        -0.01,
+        0.25,
+        0.006
+      ],
+      "rotation": [
+        360,
+        0,
+        16.037
+      ],
+      "wearable_id": 1412,
+      "collection_id": 1,
+      "collection_address": "0xa58b5224e2fd94020cb2837231b2b0e4247301a6"
+    },
+    {
+      "bone": "Spine",
+      "uuid": "f7a8f160-91e3-11eb-8e90-cd6a46433faa",
+      "scaling": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "chain_id": 1,
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "wearable_id": 566,
+      "collection_id": 1,
+      "collection_address": "0xa58b5224e2fd94020cb2837231b2b0e4247301a6"
+    },
+    {
+      "bone": "Spine1",
+      "uuid": "ffbf8f80-91e3-11eb-8e90-cd6a46433faa",
+      "scaling": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "chain_id": 1,
+      "position": [
+        -0.001,
+        -0.04,
+        0.041
+      ],
+      "rotation": [
+        360,
+        360,
+        0
+      ],
+      "wearable_id": 850,
+      "collection_id": 1,
+      "collection_address": "0xa58b5224e2fd94020cb2837231b2b0e4247301a6"
+    }
+  ],
+  "skin": null,
+  "name": "costume#3024",
+  "default_color": "#f3f3f3"
+}

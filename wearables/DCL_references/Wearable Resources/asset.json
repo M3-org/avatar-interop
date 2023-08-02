@@ -1,0 +1,31 @@
+{
+  "name": "",
+  "i18n": {
+    "en": "",
+    "es": ""
+  },
+  "tags": [
+    ""
+   ],
+  "category": "",
+  "replaces": [
+    ""
+   ],
+   "hides": [
+    ""
+   ],
+
+  "main": [
+{
+"type": "BaseMale", 
+"model": "", 
+"overrideReplaces": [
+   ],
+   "overrideHides": [
+   ]
+},
+{"type": "BaseFemale", "model": ""}
+  ],
+  "rarity": "",
+  "description": ""
+}

@@ -1,0 +1,21 @@
+{
+  "name": "denimdungareesred",
+  "i18n": {
+    "en": "Denim Red Dungarees",
+    "es": "Jardinero de Jean Colorado"
+  },
+  "tags": [
+    "upper",
+    "body"
+   ],
+  "category": "upper_body",
+  "replaces": [
+  ],
+  "hides": [
+    "lower_body"
+  ],
+  "main": [
+    {"type": "dcl://base-avatars/BaseFemale", "model": "F_DenimDungareesRed.glb"},
+    {"type": "dcl://base-avatars/BaseMale", "model": "M_DenimDungareesRed.glb"}
+  ]
+}
