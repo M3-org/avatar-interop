@@ -1,0 +1,20 @@
+{
+  "name": "tubby",
+  "start_url": "floating3.glb",
+  "components": [
+    {
+      "key": "look",
+      "value": {
+        "rootBone": "Spine2"
+      }
+    },
+    {
+      "key": "pet",
+      "value": {
+        "idleAnimation": "",
+        "walkAnimation": "idleFloat",
+        "runAnimation": ""
+      }
+    }
+  ]
+}
