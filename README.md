@@ -13,7 +13,7 @@ This meetup group is dedicated to avatar interoperability R&D. We experiment wit
   &mdash;
   <a href="https://github.com/M3-org/avatar-interop/discussions">Discussions</a>
   &mdash;
-  <a href="https://discord.gg/m3org">Discord</a>
+  <a href="https://m3org.com/discord">Discord</a>
   &mdash;
   <a href="https://twitter.com/m3org">Twitter</a>
   &mdash;
