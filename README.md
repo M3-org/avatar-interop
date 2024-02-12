@@ -1,7 +1,7 @@
 # Avatar Interop Group
 
 [![Club](https://img.shields.io/badge/project%20type-club-ff69b4)](https://project-types.github.io/#club)
-[![Discord](https://img.shields.io/discord/770382203782692945?label=Discord&logo=Discord)](https://discord.gg/m3-org)
+[![Discord](https://img.shields.io/discord/770382203782692945?label=Discord&logo=Discord)](https://m3org.com/discord)
 [![Twitter Follow](https://img.shields.io/twitter/follow/m3org)](https://twitter.com/m3org)
 
 This meetup group is dedicated to avatar interoperability R&D. We experiment with interoperable file formats, wearables, and animation systems between game engines and virtual worlds. While testing we also aim to provide useful feedback to other open metaverse standards working groups, such as the [Metaverse Standards Forum](https://metaverse-standards.org/), [OMI scripting group](https://github.com/omigroup/omi-scripting-group) and the [OMI glTF-extensions group](https://github.com/omigroup/gltf-extensions).
